@@ -112,16 +112,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazurafif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazurafif&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hazurafif&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazurafif&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazurafif&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazurafif&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hazurafif&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hazurafif&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -134,6 +134,9 @@
   </a>
   <a href="https://hazurafif.github.io">
     <img src="https://img.shields.io/badge/Portfolio-hazurafif.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hazurafif">
+    <img src="https://img.shields.io/badge/LinkedIn-hazurafif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hanifrafif22@gmail.com">
     <img src="https://img.shields.io/badge/Email-hanifrafif22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
