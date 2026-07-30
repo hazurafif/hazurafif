@@ -17,13 +17,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Science** at **Universitas Indonesia (FT UI)**
-- 📍 Based in **Bekasi, Indonesia**
+- 🎓 **Computer Engineering** at **Universitas Indonesia (FT UI)**
 - 🔭 Currently working on **AI-powered backend systems** and **microservices**
 - 🌱 Deep diving into **Go**, **Python**, **FastAPI**, **Next.js**, and **Rust**
 - 🤖 Passionate about **AI/ML**, **Computer Vision**, and **LLMs**
 - 🏗️ Building production-ready backend architectures
-- 🧠 Final project: Hand gesture recognition using MediaPipe + LSTM (24 gestures)
 
 ---
 
