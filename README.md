@@ -18,7 +18,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Computer Engineering** at **Universitas Indonesia (FT UI)**
-- 🔭 Currently working on **AI-powered backend systems** and **microservices**
 - 🌱 Deep diving into **Go**, **Python**,
 - 🤖 Passionate about **AI/ML**, **Computer Vision**, and **LLMs**
 
