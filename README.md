@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Backend Engineer & AI Developer from Indonesia
+  AI Application Engineer from Indonesia
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -19,9 +19,8 @@
 
 - 🎓 **Computer Engineering** at **Universitas Indonesia (FT UI)**
 - 🔭 Currently working on **AI-powered backend systems** and **microservices**
-- 🌱 Deep diving into **Go**, **Python**, **FastAPI**, **Next.js**, and **Rust**
+- 🌱 Deep diving into **Go**, **Python**,
 - 🤖 Passionate about **AI/ML**, **Computer Vision**, and **LLMs**
-- 🏗️ Building production-ready backend architectures
 
 ---
 
