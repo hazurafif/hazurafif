@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  AI Application Engineer from Indonesia
+  Software Engineer from Indonesia
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -15,12 +15,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **Computer Engineering** at **Universitas Indonesia (FT UI)**
-- 🌱 Deep diving into **Go**, **Python**,
-- 🤖 Passionate about **AI/ML**, **Computer Vision**, and **LLMs**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -28,14 +22,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hazurafif&theme=tokyonight" />
 </p>
 
 ---
